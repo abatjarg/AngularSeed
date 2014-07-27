@@ -1,0 +1,76 @@
+{
+    "id":1,
+    "creator":"jmcooper",
+    "name":"Code Camp",
+    "date":"03/15/2013",
+    "time":"9:00am - 5:00pm",
+    "location":{
+        "address":"123 Wall St",
+        "city":"New York",
+        "province":"NY"
+    },
+    "imageUrl":"/app/img/angularjs-logo.png",
+    "sessions":[
+        {
+            "id":1,
+            "upVoteCount":0,
+            "creator":"jmcooper",
+            "name":"How To Program",
+            "track":"DevOps",
+            "duration":1,
+            "abstract":"this session will teach you to program",
+            "creatorName":"Jim Cooper","level":"advanced"
+        },
+        {
+            "id":2,"upVoteCount":0,
+            "creator":"jmcooper",
+            "name":"How To Dance",
+            "track":"Web",
+            "duration":4,
+            "abstract":"this session will teach you to dance",
+            "creatorName":"Jim Cooper",
+            "level":"introductory"
+        },
+        {
+            "id":2,"upVoteCount":0,
+            "creator":"jmcooper",
+            "name":"How To Dance",
+            "track":"Web",
+            "duration":4,
+            "abstract":"this session will teach you to dance",
+            "creatorName":"Jim Cooper",
+            "level":"introductory"
+        },
+        {
+            "id":2,"upVoteCount":0,
+            "creator":"jmcooper",
+            "name":"How To Dance",
+            "track":"Web",
+            "duration":4,
+            "abstract":"this session will teach you to dance",
+            "creatorName":"Jim Cooper",
+            "level":"introductory"
+        },
+        {
+            "id":2,"upVoteCount":0,
+            "creator":"jmcooper",
+            "name":"How To Dance",
+            "track":"Web",
+            "duration":4,
+            "abstract":"this session will teach you to dance",
+            "creatorName":"Jim Cooper",
+            "level":"introductory"
+        },
+        {
+            "id":2,"upVoteCount":0,
+            "creator":"jmcooper",
+            "name":"How To Dance",
+            "track":"Web",
+            "duration":4,
+            "abstract":"this session will teach you to dance",
+            "creatorName":"Jim Cooper",
+            "level":"introductory"
+        }
+    ]
+}
+
