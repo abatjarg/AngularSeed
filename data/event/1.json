@@ -19,11 +19,12 @@
             "track":"DevOps",
             "duration":1,
             "abstract":"this session will teach you to program",
-            "creatorName":"Jim Cooper","level":"advanced"
+            "creatorName":"Jim Cooper",
+            "level":"advanced"
         },
         {
             "id":2,"upVoteCount":0,
-            "creator":"jmcooper",
+            "creator":"ajbat",
             "name":"How To Dance",
             "track":"Web",
             "duration":4,
@@ -33,12 +34,12 @@
         },
         {
             "id":2,"upVoteCount":0,
-            "creator":"jmcooper",
+            "creator":"ajbat",
             "name":"How To Dance",
             "track":"Web",
             "duration":4,
             "abstract":"this session will teach you to dance",
-            "creatorName":"Jim Cooper",
+            "creatorName":"Aj Batja",
             "level":"introductory"
         },
         {
